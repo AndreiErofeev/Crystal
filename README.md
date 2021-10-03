@@ -1,4 +1,6 @@
-# Crystal
+# RaifHack solution by Crystal team
+
+by Andrei Erofeev, Evgenii Kanin and Mikhail Doroshenko
 
 to run training set --mode to train and indicate path to .csv after --train_data, for example:
 
