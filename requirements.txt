@@ -72,7 +72,7 @@ pyparsing==2.4.7
 pyrsistent @ file:///C:/ci/pyrsistent_1625052426389/work
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
-pywin32==228
+pywin32==301
 pywinpty @ file:///C:/ci/pywinpty_1607419945780/work
 PyYAML==5.4.1
 pyzmq @ file:///C:/ci/pyzmq_1628276105793/work
